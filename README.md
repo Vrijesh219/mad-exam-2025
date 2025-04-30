@@ -91,7 +91,6 @@ The Loyalty Card Storage App provides:
 ## 🧳 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/loyalty_card_app.git
 cd loyalty_card_app
 flutter pub get
 flutter run
