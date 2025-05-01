@@ -54,6 +54,19 @@ The Loyalty Card Storage App provides:
 7. Settings & Sync Status  
 
 ---
+## ScreenSHot:
+![image](https://github.com/user-attachments/assets/575d8a89-e45b-420e-8d85-9a0db804e569)
+
+![image](https://github.com/user-attachments/assets/127e62c6-9706-41d1-b0b4-9d4ffc8ff574)
+![image](https://github.com/user-attachments/assets/2463a48c-3d82-48e2-ad97-ec735290c4e1)
+![image](https://github.com/user-attachments/assets/ad332858-4b00-4d61-9081-fe68ac1ef6d5)
+![image](https://github.com/user-attachments/assets/db5db8e8-d642-4530-83d6-f6673c3e6bbe)
+![image](https://github.com/user-attachments/assets/833cbae5-0e27-4ffb-aaef-b3deee4ef701)
+![image](https://github.com/user-attachments/assets/2dc75620-d42c-426f-ad9f-680d3e7944c4)
+![image](https://github.com/user-attachments/assets/d224fa80-a3ef-4e86-b374-44ac82adc5d6)
+![image](https://github.com/user-attachments/assets/65d433cf-2e0f-4f05-9f4b-ad12fad65965)
+![image](https://github.com/user-attachments/assets/e3715952-f371-4c43-8a0b-d6c77c3d5eb9)
+
 
 ## 🧰 Tech Stack
 
